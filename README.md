@@ -35,3 +35,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 A web application to form social connections with people based on your music taste.
 Get matched and connect to people based on your Spotify music playlist.
+
+## Implementation
+
+### User Authentication
