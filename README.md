@@ -60,4 +60,5 @@ Get matched and connect to people based on your Spotify music playlist.
 
 ### Chat Window
 
-![image](https://user-images.githubusercontent.com/87931430/179074964-1b9b8c29-fed2-46e8-9d67-ce8af58994b9.png)
+![img](https://user-images.githubusercontent.com/87931430/179075522-647a1210-2ac5-46c8-973d-235e0ecf2fdd.jpg)
+
