@@ -38,4 +38,10 @@ Get matched and connect to people based on your Spotify music playlist.
 
 ## Implementation
 
+### Landing Page
+
+![Screenshot (413)](https://user-images.githubusercontent.com/87931430/179071055-580811a0-e713-4a2d-9c47-16770f87725e.jpg)
+![Screenshot (414)](https://user-images.githubusercontent.com/87931430/179071202-cb281659-d59f-49b4-a00f-7c2a77ecc4d0.jpg)
+
 ### User Authentication
+
