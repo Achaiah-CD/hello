@@ -31,5 +31,7 @@ Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
 
 # Verse
+[Visit here](https://songerated.vercel.app/)
+
 A web application to form social connections with people based on your music taste.
 Get matched and connect to people based on your Spotify music playlist.
