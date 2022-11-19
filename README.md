@@ -54,11 +54,11 @@ Get matched and connect to people based on your Spotify music playlist.
 ![Screenshot (418)](https://user-images.githubusercontent.com/87931430/179073793-7d49c07e-aa9e-460e-8b2b-1c74fdcf8ca2.jpg)
 ![Screenshot (419)](https://user-images.githubusercontent.com/87931430/179073798-d5b9b64f-9b50-4216-83e0-696dc1d1a440.jpg)
 
-### Match Users Page:
+### Match Users Page
 
 ![image](https://user-images.githubusercontent.com/87931430/179074569-314d8445-670e-4978-8348-f4d4b12fceb2.png)
 
-### Chat Window:
+### Chat Window
 
 ![img](https://user-images.githubusercontent.com/87931430/179075522-647a1210-2ac5-46c8-973d-235e0ecf2fdd.jpg)
 
